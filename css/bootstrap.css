@@ -4,6 +4,17 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+/* Eigen CSS */
+
+.features {
+  margin-top: 80px;
+}
+
+.center { 
+  text-align: center;
+}
+
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
