@@ -1,0 +1,68 @@
+.features {
+  margin-top: 80px;
+}
+
+.center {
+  text-align: center;
+}
+
+.navDesign {
+  background-color: white;
+}
+
+.navbar-default .navbar-brand {
+  color: #343432 !important;
+}
+
+.navContainer {
+  height: 100px;
+}
+
+.menuContainer {
+  margin-top: 50px;
+}
+
+.topContainer {
+  margin-top: 160px;
+}
+
+.featureContainer {
+  height: 180px;
+}
+
+.imgRatio {
+  max-width: 140px;
+  max-height: 140px;
+}
+
+.green {
+  color: #7FC348 !important;
+}
+
+.gray {
+  color: #373736 !important;
+}
+
+.orange {
+  color: #F15B28 !important;
+}
+
+.magenta {
+  color: #D51C5C !important;
+}
+
+.hGreen a:hover {
+  color: #7FC348 !important;
+}
+
+.hGray a:hover {
+  color: #373736 !important;
+}
+
+.hOrange a:hover {
+  color: #F15B28 !important;
+}
+
+.hMagenta a:hover {
+  color: #D51C5C !important;
+}

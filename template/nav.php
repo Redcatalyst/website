@@ -1,4 +1,4 @@
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top navContainer navDesign">
       <div class="container">
 
         <div class="navbar-header">
@@ -8,10 +8,10 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Klus- en aannemersbedrijf P. van der Poel</a>
+          <a class="navbar-brand"  href="http://vdpoeldesign.nl"><img src="images/logo.png" alt="vdPoel Computing & Design" width="310px"</a>
         </div>
 
-        <!-- Zoekfunctie voor later 
+        <!-- Zoekfunctie voor later
         <form class="navbar-form navbar-right" role="search">
             <div class="form-group">
               <input type="text" class="form-control" placeholder="Search">
@@ -20,20 +20,20 @@
           </form>
         -->
 
-        <div id="navbar" class="navbar-collapse collapse">
+        <div id="navbar" class="navbar-collapse collapse menuContainer">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li class="dropdown">
+            <li class="hGreen"><a href="#home">Home</a></li>
+            <li class="hGrey"><a href="#contact">Contact</a></li>
+            <li class="dropdown hOrange">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Portfolio<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="#">Badkamer nieuweschans</a></li>
-                <li><a href="#">Het bouwen van ons nieuwe huis</a></li>
-                <li><a href="#">Badkamer lettelbert</a></li>
+                <li class="hMagenta"><a href="#">Badkamer nieuweschans</a></li>
+                <li class="hMagenta"><a href="#">Het bouwen van ons nieuwe huis</a></li>
+                <li class="hMagenta"><a href="#">Badkamer lettelbert</a></li>
               </ul>
             </li>
           </ul>
         </div><!--/.nav-collapse -->
-        
+
       </div>
     </nav>
