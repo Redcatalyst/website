@@ -22,11 +22,11 @@
 
         <div id="navbar" class="navbar-collapse collapse menuContainer">
           <ul class="nav navbar-nav navbar-right">
-            <li class="hGreen"><a href="index.php">Home</a></li>
-            <li class="hGray"><a href="computing.php">Computing</a></li>
-            <li class="hMagenta"><a href="design.php">Design</a></li>
-            <li class="hOrange"><a href="#contact">Contact</a></li>
-            <li class="dropdown">
+            <li class="hGreen itemBg"><a href="index.php">Home</a></li>
+            <li class="hGray itemBg"><a href="computing.php">Computing</a></li>
+            <li class="hMagenta itemBg"><a href="design.php">Design</a></li>
+            <li class="hOrange itemBg"><a href="#contact">Contact</a></li>
+            <li class="dropdown itemBg">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Portfolio<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="#"><b class="Orange">Websites</b></a></li>

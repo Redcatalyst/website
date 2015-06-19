@@ -45,6 +45,10 @@
   color: #D51C5C !important;
 }
 
+.itemBg {
+  background-color: #FFFFFF;
+}
+
 /* ---  TOP CARD  --- */
 .topContainer {
   margin-top: 160px;
