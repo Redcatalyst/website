@@ -41,9 +41,9 @@
                 <li role="separator" class="divider"></li>
                 <li><a href="#"><b class="Magenta">Drukwerk</b></a></li>
                 <li role="separator" class="divider"></li>
-                <li class="hMagenta"><a href="http://vooma.nl/" target="blank">VOOMA</a></li>
-                <li class="hMagenta"><a href="http://korpsma.nl/" target="blank">KORPS MA</a></li>
-                <li class="hMagenta"><a href="http://vvo-ma.nl/" target="blank">VVO-MA</a></li>
+                <li class="hMagenta"><a href="#" target="blank">Link 1</a></li>
+                <li class="hMagenta"><a href="#" target="blank">Link 2</a></li>
+                <li class="hMagenta"><a href="#" target="blank">Link 3</a></li>
               </ul>
             </li>
           </ul>

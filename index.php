@@ -17,7 +17,7 @@
           <h2 class="green">Hardware</h2>
           <p>Bent u toe aan een nieuwe computer?</p>
           <p class="featureContainer text-justify">vdPoel - Computing & Design helpt bij het uitzoeken van de juiste hardware op basis van uw benodigheden terwijl we rekening houden met uw portemonnee. Wij vergelijken de prijzen van verschil-lende top winkels en groothandels. Zo krijgt u altijd de voordeligste hardware!</p>
-          <p><a class="btn btn-default greenB featuresBottom" href="#" role="button">Computing &raquo;</a></p>
+          <p><a class="btn btn-default greenB featuresBottom" href="computing.php" role="button">Computing &raquo;</a></p>
         </div><!-- /.col-lg-3 -->
 
         <div class="col-lg-3">
@@ -25,7 +25,7 @@
           <h2 class="gray">Software</h2>
           <p>Problemen met dat ene programma? </p>
           <p class="featureContainer text-justify">Wij hebben een breed scala aan software kennis in huis en helpen u graag met elk software probleem. Is het iets nieuws? Wij zorgen dat we de basis snappen en proberen u te helpen. Heeft ons werk helemaal niets geholpen? Dan geld bij ons: No cure no pay!</p>
-          <p><a class="btn btn-default grayB featuresBottom" href="#" role="button">Computing &raquo;</a></p>
+          <p><a class="btn btn-default grayB featuresBottom" href="computing.php" role="button">Computing &raquo;</a></p>
         </div><!-- /.col-lg-3 -->
 
         <div class="col-lg-3">
@@ -33,7 +33,7 @@
           <h2 class="orange">Webdesign</h2>
           <p>Wilt u een nieuwe website?</p>
           <p class="featureContainer text-justify">vdPoel - Computing & Design levert op maat gemaakte websites die gemakkelijk te beheren zijn zodat u geen extra kosten kwijt bent voor onderhoud. Wilt u liever het beheer uit handen geven? Wij helpen u graag met het plaatsen van content voor een vast en voordelig uur tarief!</p>
-          <p><a class="btn btn-default orangeB featuresBottom" href="#" role="button">Design &raquo;</a></p>
+          <p><a class="btn btn-default orangeB featuresBottom" href="design.php" role="button">Design &raquo;</a></p>
         </div><!-- /.col-lg-3 -->
 
         <div class="col-lg-3">
@@ -41,7 +41,7 @@
           <h2 class="magenta">Drukwerk</h2>
           <p>Visitekaartjes of flyers nodig?</p>
           <p class="featureContainer text-justify">Wij creëren allerij soorten drukwerk en kunnen dit vervolgens laten drukken bij erkende drukkerijen. Visitekaartjes, flyers, posters, folders etc. Wij creëren het allemaal op maat voor u en zorgen dat het bij u thuis geleverd wordt. Snel en voordelig!  </p>
-          <p><a class="btn btn-default magentaB featuresBottom" href="#" role="button">Design &raquo;</a></p>
+          <p><a class="btn btn-default magentaB featuresBottom" href="design.php" role="button">Design &raquo;</a></p>
         </div><!-- /.col-lg-3 -->
 
 </div><!-- /.row -->
