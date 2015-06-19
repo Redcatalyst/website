@@ -1,3 +1,17 @@
+/* --- ALGEMEEN --- */
+.margin50 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.alignRight {
+  text-align: right;
+}
+
+.alignLeft {
+  text-align: left;
+}
+
 /* ---  NAVIGATIE  --- */
 .navDesign {
   background-color: white;
@@ -102,7 +116,7 @@
   margin-bottom: 100px;
 }
 
-/* --- ABOUT --- */
+/* --- ABOUT FRONTPAGE --- */
 .about {
   background-color: #373736;
 }
@@ -116,6 +130,24 @@
 }
 
 .aboutMargin {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+/* --- COMPUTING --- */
+.computingAbout {
+
+}
+
+/* --- DESIGN --- */
+.designHeader {
+  height: 600px !important;
+  background-image: url("../images/jumboBack.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.designAbout {
+
 }
