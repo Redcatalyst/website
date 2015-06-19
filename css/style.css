@@ -1,11 +1,4 @@
-.features {
-  margin-top: 80px;
-}
-
-.center {
-  text-align: center;
-}
-
+/* ---  NAVIGATIE  --- */
 .navDesign {
   background-color: white;
 }
@@ -22,8 +15,42 @@
   margin-top: 50px;
 }
 
+.hGreen a:hover {
+  color: #7FC348 !important;
+}
+
+.hGray a:hover {
+  color: #373736 !important;
+}
+
+.hOrange a:hover {
+  color: #F15B28 !important;
+}
+
+.hMagenta a:hover {
+  color: #D51C5C !important;
+}
+
+/* ---  TOP CARD  --- */
 .topContainer {
   margin-top: 160px;
+}
+
+.center {
+  text-align: center;
+}
+
+.jumboClass {
+  height: 475px !important;
+  background-image: url("../images/jumboBack.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+/* ---  FEATURES  --- */
+.features {
+  margin-top: 80px;
 }
 
 .featureContainer {
@@ -51,18 +78,44 @@
   color: #D51C5C !important;
 }
 
-.hGreen a:hover {
-  color: #7FC348 !important;
+.greenB {
+  background-color: #7FC348 !important;
+  color: black !important;
 }
 
-.hGray a:hover {
-  color: #373736 !important;
+.grayB {
+  background-color: #373736 !important;
+  color: white !important;
 }
 
-.hOrange a:hover {
-  color: #F15B28 !important;
+.orangeB {
+  background-color: #F15B28 !important;
+  color: white !important;
 }
 
-.hMagenta a:hover {
-  color: #D51C5C !important;
+.magentaB {
+  background-color: #D51C5C !important;
+  color: white !important;
+}
+
+.featuresBottom {
+  margin-bottom: 100px;
+}
+
+/* --- ABOUT --- */
+.about {
+  background-color: #373736;
+}
+
+.aboutText {
+  color: white;
+}
+
+.size-12 {
+  font-size: 8px;
+}
+
+.aboutMargin {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }

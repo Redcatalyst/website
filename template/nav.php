@@ -23,13 +23,27 @@
         <div id="navbar" class="navbar-collapse collapse menuContainer">
           <ul class="nav navbar-nav navbar-right">
             <li class="hGreen"><a href="#home">Home</a></li>
-            <li class="hGrey"><a href="#contact">Contact</a></li>
-            <li class="dropdown hOrange">
+            <li class="hGray"><a href="#home">Computing</a></li>
+            <li class="hMagenta"><a href="#home">Design</a></li>
+            <li class="hOrange"><a href="#contact">Contact</a></li>
+            <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Portfolio<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li class="hMagenta"><a href="#">Badkamer nieuweschans</a></li>
-                <li class="hMagenta"><a href="#">Het bouwen van ons nieuwe huis</a></li>
-                <li class="hMagenta"><a href="#">Badkamer lettelbert</a></li>
+                <li><a href="#"><b class="Orange">Websites</b></a></li>
+                <li role="separator" class="divider"></li>
+                <li class="hOrange"><a href="http://obs-noorderbreedte.nl/" target="blank">O.b.s. Noorderbreedte</a></li>
+                <li class="hOrange"><a href="http://www.svozuidbroek.nl/" target="blank">Sportvereniging Oosterbroek</a></li>
+                <li class="hOrange"><a href="http://klusvdpoel.nl/" target="blank">Klus en aannemersbedrijf P. van der Poel</a></li>
+                <li class="hOrange"><a href="http://www.kwiekolympiados.nl/" target="blank">Kwiek Olympiados</a></li>
+                <li class="hOrange"><a href="http://vooma.nl/" target="blank">VOOMA</a></li>
+                <li class="hOrange"><a href="http://korpsma.nl/" target="blank">KORPS MA</a></li>
+                <li class="hOrange"><a href="http://vvo-ma.nl/" target="blank">VVO-MA</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#"><b class="Magenta">Drukwerk</b></a></li>
+                <li role="separator" class="divider"></li>
+                <li class="hMagenta"><a href="http://vooma.nl/" target="blank">VOOMA</a></li>
+                <li class="hMagenta"><a href="http://korpsma.nl/" target="blank">KORPS MA</a></li>
+                <li class="hMagenta"><a href="http://vvo-ma.nl/" target="blank">VVO-MA</a></li>
               </ul>
             </li>
           </ul>
