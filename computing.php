@@ -12,7 +12,7 @@
 
     <div class="row featurette aboutMargin" margin-top="40px;">
       <div class="col-md-9">
-        <h2 class="featurette-heading">Computing<span class="text-muted"></span></h2>
+        <h2 class="featurette-heading">Computing <span class="text-muted">- The art off...</span></h2>
         <p class="text-justify"><b>Werkzaamheden</b> - Computers bouwen en repareren, helpen bij software problemen, gegevens herstel bij gecrashte computers, computers optimaliseren en computerhulp/les op verzoek. Deze werkzaamheden voer ik alleen uit in de omgeving Menterwolde (Groningen) en omstreken.</p>
       </div>
 

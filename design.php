@@ -26,7 +26,7 @@
     <div class="row featurette aboutMargin" margin-top="40px;">
       <div class="col-md-9">
         <h2 class="featurette-heading magenta">Design <span class="text-muted">- Het grafische werk...</span></h2>
-        <p class="text-justify"><b>Werkzaamheden</b> - Voornamelijk CMS (Joomla!, WordPress, Drupal) websites maar ook custom html/css werk en het ontwerpen van huisstijlen, logo's, visitekaartjes, posters, flyers, kaarten, etc. In de toekomst wil ik hier nog verschillende programmeer talen aan toevoegen zoals PHP, Javascript en jQuery. Deze werkzaamheden worden geleverd door heel Nederland. </p>
+        <p class="text-justify"><b>Werkzaamheden</b> - Voornamelijk CMS websites (Joomla!, WordPress, Drupal) maar ook custom html/css werk en het ontwerpen van huisstijlen, logo's, visitekaartjes, posters, flyers, kaarten, etc. In de toekomst wil ik hier nog verschillende programmeer talen aan toevoegen zoals PHP, Javascript en jQuery. Deze werkzaamheden worden geleverd door heel Nederland. </p>
       </div>
 
       <div class="col-md-3">
