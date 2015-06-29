@@ -32,7 +32,7 @@
           <img class="img-circle imgRatio" src="images/webdesign_round.png" alt="Webdesign" width="140" height="140">
           <h2 class="orange">Webdesign</h2>
           <p>Wilt u een nieuwe website?</p>
-          <p class="featureContainer text-justify">vdPoel - Computing & Design levert op maat gemaakte websites die gemakkelijk te beheren zijn zodat u geen extra kosten kwijt bent voor onderhoud. Wilt u liever het beheer uit handen geven? Wij helpen u graag met het plaatsen van content voor een vast en voordelig uur tarief!</p>
+          <p class="featureContainer text-justify">vdPoel - Computing & Design levert op maat gemaakte websites die gemakkelijk te beheren zijn, zodat u geen extra kosten kwijt bent voor onderhoud. Wilt u liever het beheer uit handen geven? Wij helpen u graag met het plaatsen van content voor een vast en voordelig uur tarief!</p>
           <p><a class="btn btn-default orangeB featuresBottom" href="design.php" role="button">Design &raquo;</a></p>
         </div><!-- /.col-lg-3 -->
 

@@ -1,7 +1,7 @@
 <?php include 'template/head.php'; ?>
 <?php include 'includes/mail.php'; ?>
 
-<div class="jumbotron computingHeader">
+<div class="jumbotron contactHeader">
   <div class="container center topContainer">
     <h1>Meer informatie of een offerte nodig?</h1>
     <p>Neem contact op via het onderstaande contact formulier.</p>
@@ -12,6 +12,11 @@
   <div class="container">
 
     <form class="form-horizontal" role="form" method="post" action="contact.php">
+      <div class="form-group">
+          <div class="col-sm-10 col-sm-offset-2">
+              <?php echo $result; ?>
+          </div>
+      </div>
       <div class="form-group">
           <label for="name" class="col-sm-2 control-label">Naam</label>
           <div class="col-sm-10">
@@ -43,11 +48,6 @@
       <div class="form-group">
           <div class="col-sm-10 col-sm-offset-2">
               <input id="submit" name="submit" type="submit" value="Verstuur bericht" class="btn btn-primary">
-          </div>
-      </div>
-      <div class="form-group">
-          <div class="col-sm-10 col-sm-offset-2">
-              <?php echo $result; ?>
           </div>
       </div>
   </form>

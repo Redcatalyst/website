@@ -2,7 +2,7 @@
       <div class="container">
 
         <div>
-          <a class="navbar-brand"  href="http://vdpoeldesign.nl"><img src="images/logo.png" alt="vdPoel Computing & Design" width="310px"</a>
+          <a class="navbar-brand"  href="http://vdpoeldesign.nl"><img src="images/logo.png" alt="vdPoel Computing & Design" width="310px"></a>
         </div>
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -40,12 +40,14 @@
                 <li class="hOrange"><a href="http://vooma.nl/" target="blank">VOOMA</a></li>
                 <li class="hOrange"><a href="http://korpsma.nl/" target="blank">KORPS MA</a></li>
                 <li class="hOrange"><a href="http://vvo-ma.nl/" target="blank">VVO-MA</a></li>
+                <!-- Voor latere toevoeging
                 <li role="separator" class="divider"></li>
                 <li><a href="#"><b class="Magenta">Drukwerk</b></a></li>
                 <li role="separator" class="divider"></li>
                 <li class="hMagenta"><a href="#" target="blank">Link 1</a></li>
                 <li class="hMagenta"><a href="#" target="blank">Link 2</a></li>
                 <li class="hMagenta"><a href="#" target="blank">Link 3</a></li>
+                -->
               </ul>
             </li>
           </ul>
