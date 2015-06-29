@@ -27,7 +27,7 @@
             <li class="hGreen itemBg"><a href="index.php">Home</a></li>
             <li class="hGray itemBg"><a href="computing.php">Computing</a></li>
             <li class="hMagenta itemBg"><a href="design.php">Design</a></li>
-            <li class="hOrange itemBg"><a href="#contact">Contact</a></li>
+            <li class="hOrange itemBg"><a href="contact.php">Contact</a></li>
             <li class="dropdown itemBg">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Portfolio<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">

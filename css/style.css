@@ -62,11 +62,12 @@
 
 .jumboClass {
   height: 475px !important;
-  background-image: url("../images/jumboBack.jpg");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/jumboBack.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
 }
+
 
 /* ---  FEATURES  --- */
 .features {
@@ -141,17 +142,25 @@
 }
 
 /* --- COMPUTING --- */
-.computingAbout {
-
+.computingHeader {
+  height: 475px !important;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/computingbg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
 }
 
 /* --- DESIGN --- */
 .designHeader {
   height: 600px !important;
-  background-image: url("../images/jumboBack.jpg");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/designbg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
+}
+
+.dHeaderBg {
+  background-color: #2f2f2f;
 }
 
 .designAbout {
